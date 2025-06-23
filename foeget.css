@@ -1,0 +1,31 @@
+
+
+.container {
+    width: 20%;
+    height: 300px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 20px;
+    box-shadow: 0px 0px 20px black;
+    border-radius: 10px;
+    margin-left: 40%;
+    text-align: center;
+    margin-top: 5%;
+    background-color: cadetblue;
+
+}
+
+input[placeholder] {
+    width: 240px;
+    height: 30px;
+    margin-top: 15px;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: black;
+    font-size: x-large;
+}
+label {
+    font-size:x-large;
+}
